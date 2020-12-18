@@ -1,0 +1,287 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    color: grey;
+    font-family: 'EB Garamond', serif;
+    font-size: 1.1 em;
+}
+
+body.fondo{
+    background-color: whitesmoke;
+}
+
+
+.titulo {
+    color: rgb(170, 25, 25);
+    margin: 20px 0;
+    background-color: white;
+    text-align: center;
+}
+
+.centro {
+    text-align: center;
+    position: absolute;
+}
+
+
+.logo {
+
+    float: right;
+    margin-right: 1%;
+    margin-left: 10%;
+    height: 170px;
+    overflow: hidden;
+    
+    
+}
+
+
+.tablaEq {
+    float: left;
+    color: black;
+    margin-top: 30%;
+    text-align: center;
+    
+    border: 4px solid black;
+    table-layout: fixed;
+    width: 100%
+    
+   
+}
+
+.secc {
+    
+    padding-top: 10%;
+    margin-top: 10%;
+}
+
+.tit {
+    color: black;
+
+}
+
+.contenedor {
+
+    margin-top: 250px;
+    padding: 20px;
+    background-color:white;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-top: 1px solid rgb(0, 0, 0);
+    border-left: 1px solid rgb(0, 0, 0);
+    border-right: 1px solid rgb(0, 0, 0);
+  }
+
+
+  .posicion {
+    margin-top: 15%;
+  }
+
+  .contPregs {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-top: 1px solid rgb(0, 0, 0);
+    border-left: 1px solid rgb(0, 0, 0);
+    border-right: 1px solid rgb(0, 0, 0);
+  }
+
+  h2 {
+    color: black;
+    margin: 20px 0;
+    border-bottom: 1px solid #444;
+    font-size: 1.7em;
+  }
+
+  h3 {
+    color: black;
+    margin: 20px 0;
+    border-bottom: 1px solid #444;
+    font-size: 1.7em;
+
+
+  }
+
+  .tit {
+      text-align: center;
+      margin-top: 5%;
+      font-weight: bold;
+      margin-bottom: 2%;
+  }
+
+  .tit1 {
+    text-align: center;
+    margin-top: 5%;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+  .formulario {
+      text-align: left;
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+}
+
+.lugar {
+    align-content: center;
+    align-items: center;
+}
+
+
+.apartadoMenu{
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    float: left;
+    padding: 0 10px;
+  }
+ 
+
+ ul.menu li a {
+    padding: .3em;
+    display: block;
+    text-decoration: none;
+    color: #333;
+    background: #F4F4F4;
+    border-top: 1px solid #7C7C7C;
+    border-right: 1px solid #7C7C7C;
+    border-left: 1px solid #7C7C7C;
+    border-bottom: 1px solid #9C9C9C;
+  }
+
+
+
+header h1 img {
+    float: left;
+    width: 300px;
+    margin-right: 2em;
+}
+
+nav ul li {
+
+   float: left;
+   margin: 35px 0;
+   padding: 10px;
+   text-transform: uppercase; 
+   color: black;
+   font-size: 2 em;   
+}
+
+li.galeria {
+    background-color: orange;
+    color:black;
+    border-radius: 15px;
+}
+
+.imagencentral {
+    width: 984px;
+    height: 405px;
+    overflow: hidden;
+    margin-top: 5%;
+}
+
+#slogan {
+    color:black;
+    font-family: 'EB Garamond', serif;
+    font-size: 2em;
+    margin: 20%;
+
+}
+
+h2 {
+    clear: both;
+    margin-top: 3em;
+    text-transform: uppercase;
+    font-size: 1.75em;
+    color: black;
+}
+
+h2.img{
+    text-align: center;
+    margin-bottom: 3em;
+    width: 984px;
+    height: 405px;
+    overflow: hidden;
+    margin-top: 20%;
+
+}
+
+h1 {
+    margin-left: 10%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    color: black;
+}
+
+main img {
+    width: 400px;
+}
+
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 3em;
+    
+}
+
+h3.pregs {
+    border-bottom: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: 1.5em;
+}
+
+p{
+    color: rgb(37, 35, 35);
+}
+
+footer img {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+
+.izquierda {
+    float: left;
+    margin-right: 5%;
+}
+
+.derecha {
+    float: right;
+    margin-right: 1%;
+    margin-left: 10%;
+}
+
+.derecha1 {
+    float: right;
+    margin-right: 1%;
+    margin-left: 10%;
+}
+
+
+
+.imgprop {
+    width: 100%;
+    height: 405px;
+    margin-bottom: 20%;
+    margin-bottom: 20%;
+}
+
+
+   
